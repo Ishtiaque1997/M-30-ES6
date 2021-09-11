@@ -13,7 +13,7 @@ const result=add(15,54);
 console.log(result);
 
 
-function fullName(first,last='madari'){
+function fullName(first,last='jaqir'){
   const name=first +' '+last;
   return name;
 }
